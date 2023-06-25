@@ -1,6 +1,6 @@
 ### 👋
 ## My name is taekyung Yang and I' working under the nickname 'poporago'
-## Hae fun and good luck!
+## Have fun and good luck!
 <!--
 **poporago/poporago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
